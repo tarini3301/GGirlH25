@@ -62,7 +62,8 @@ npm start
 ---
 
 ## 📸 Demo & Screenshots  
-🖼[![Watch the Demo](https://www.youtube.com/watch?v=omjoT_cmTBU)](https://www.youtube.com/watch?v=0xEr85eqdvU)  
+🖼[Watch the Demo1](https://www.youtube.com/watch?v=omjoT_cmTBU)
+🖼[Watch the Demo2](https://www.youtube.com/watch?v=0xEr85eqdvU)  
 
 ---
 
