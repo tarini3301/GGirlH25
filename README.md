@@ -101,11 +101,6 @@ We welcome contributions! To contribute:
 
 ---
 
-## 📜 License  
-This project is licensed under the **MIT License**.  
-
----
-
 ## 📬 Contact & Support  
 For queries or collaborations, reach out via:  
 
