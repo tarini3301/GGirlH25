@@ -1,4 +1,6 @@
-# AI-Powered Handwritten Prescription Processing 🚀  
+# Medicine:
+# Pharmacist's Assistant
+## AI-Powered Handwritten Prescription Processing 🚀  
 
 ## 📌 Overview  
 This project leverages **AI and OCR** to accurately extract, recognize, and process handwritten medical prescriptions. It automates **medicine identification, inventory matching, and order generation**, reducing errors and improving efficiency in pharmacy workflows.  
