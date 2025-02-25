@@ -43,13 +43,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### 4️⃣ (Optional) Start Frontend  
-```bash
-cd frontend
-npm install
-npm start
-```
-
 ---
 
 ## 🚀 Usage  
@@ -72,7 +65,7 @@ npm start
 ### 📌 Public Datasets Used  
 - **RxNorm API** – (Drug Names & Dosages)  
 - **MIMIC-III** – (Clinical Database)  
-- **Kaggle Handwritten Prescription Datasets**  
+- **Kaggle Handwritten Prescription Datasets** [Doctor’s Handwritten Prescription BD dataset](https://www.kaggle.com/datasets/mamun1113/doctors-handwritten-prescription-bd-dataset/data)  
 
 ### 📌 Key References  
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)  
