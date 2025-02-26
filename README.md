@@ -11,6 +11,7 @@ This project leverages **AI and OCR** to accurately extract, recognize, and proc
 ✔️ **AI-Driven Medicine Matching** – FuzzyWuzzy, Levenshtein Distance  
 ✔️ **Handwriting Recognition Enhancement** – CNNs, Vision Transformers  
 ✔️ **Automated Medicine Order Generation** – Rule-based AI, Reinforcement Learning  
+✔️ Handwriting Recognition & Deep Learning: CNNs, Transformers
 
 ---
 
