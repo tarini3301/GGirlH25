@@ -15,7 +15,6 @@ This project leverages **AI and OCR** to accurately extract, recognize, and proc
 ---
 
 ## 🛠 Tech Stack  
-- **Frontend**: (Optional, if applicable) React.js  
 - **Backend**: Flask / FastAPI  
 - **Database**: PostgreSQL / SQLite (for inventory management)  
 - **AI Models**:  
