@@ -56,7 +56,7 @@ python app.py
 
 ## 📸 Demo & Screenshots  
 🖼[Watch the Demo1](https://www.youtube.com/watch?v=omjoT_cmTBU)
-🖼[Watch the Demo2](https://www.youtube.com/watch?v=0xEr85eqdvU)  
+🖼[Watch the Demo2](https://youtu.be/h2Ci35Khxh0)  
 
 ---
 
